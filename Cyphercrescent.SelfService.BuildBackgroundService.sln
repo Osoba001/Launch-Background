@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cyphercrescent.SelfService.BuildBackgroundService", "Cyphercrescent.SelfService.BuildBackgroundService\Cyphercrescent.SelfService.BuildBackgroundService.csproj", "{11F6A62B-04A2-4E87-837D-5F3E2FA4FDFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgoundSelfService.Test", "BackgoundSelfService.Test\BackgoundSelfService.Test.csproj", "{B524E5C9-5F40-4D8F-8148-E755CF1958D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11F6A62B-04A2-4E87-837D-5F3E2FA4FDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F6A62B-04A2-4E87-837D-5F3E2FA4FDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F6A62B-04A2-4E87-837D-5F3E2FA4FDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F6A62B-04A2-4E87-837D-5F3E2FA4FDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B524E5C9-5F40-4D8F-8148-E755CF1958D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B524E5C9-5F40-4D8F-8148-E755CF1958D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B524E5C9-5F40-4D8F-8148-E755CF1958D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B524E5C9-5F40-4D8F-8148-E755CF1958D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90C63A52-07F6-407C-93F6-1EF850BFA37C}
+	EndGlobalSection
+EndGlobal
